@@ -25,5 +25,7 @@ react native project
 -download expo on google play to test the app
 -scan app qr code to test the app 
 
+url to react native app : https://github.com/TshepoSTM/todo-list.git
+
 
 configuration - url to connect the APIs can be found in config folder in file named [url_key]
